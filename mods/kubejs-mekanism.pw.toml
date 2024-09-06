@@ -1,0 +1,13 @@
+name = "KubeJS Mekanism"
+filename = "kubejs-mekanism-neoforge-2101.1.6-build.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sY2Fy24K/versions/ZQbfeLJO/kubejs-mekanism-neoforge-2101.1.6-build.4.jar"
+hash-format = "sha512"
+hash = "2dae7f34940d529c41ced4c88a18ba60fb046d999b104901c0f078c73534eaa64bb5169b0d8cb1f8155d9cc9bad31e0070c9f5c9a331ccb94fc1e9fbc1a89b8d"
+
+[update]
+[update.modrinth]
+mod-id = "sY2Fy24K"
+version = "ZQbfeLJO"

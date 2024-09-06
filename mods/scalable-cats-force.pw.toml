@@ -1,0 +1,13 @@
+name = "Scalable Cat's Force"
+filename = "ScalableCatsForce-NeoForge-3.5.0-build-1-with-library.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zr0QMQMo/versions/i5wFABRl/ScalableCatsForce-NeoForge-3.5.0-build-1-with-library.jar"
+hash-format = "sha512"
+hash = "5c964213508d403952e2d7ad487b8cc10ca3ef93f1909e46f822e66abe2da0dfbe7f57ddbc3e5ebf6c853c2390761a8d0660d5485570e90ef9af8568e0a36388"
+
+[update]
+[update.modrinth]
+mod-id = "zr0QMQMo"
+version = "i5wFABRl"

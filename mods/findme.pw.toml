@@ -1,0 +1,13 @@
+name = "FindMe"
+filename = "findme-3.3.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rEuzehyH/versions/LXGKVAtw/findme-3.3.1-neoforge.jar"
+hash-format = "sha512"
+hash = "28ad81e11b1803852a8004ba01dd8a13da113c316651cb3b1422448367574511a7836b1285f1070e7240a18a04946ce03c5357d560d29802ecc7f4201320c9b1"
+
+[update]
+[update.modrinth]
+mod-id = "rEuzehyH"
+version = "LXGKVAtw"

@@ -1,0 +1,13 @@
+name = "Advanced Backups"
+filename = "AdvancedBackups-neoforge-1.21-3.6.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/Ts2TotgE/AdvancedBackups-neoforge-1.21-3.6.3.jar"
+hash-format = "sha512"
+hash = "79def63eea3267e6bc4493b6bd1d5973290cb5f6b47b1d19767dcc69645d49308900383a443985a642f1980e8b79ead256202d47dfe783e223cf681b3815bcbf"
+
+[update]
+[update.modrinth]
+mod-id = "Jrmoreqs"
+version = "Ts2TotgE"

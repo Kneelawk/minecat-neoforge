@@ -1,0 +1,13 @@
+name = "Glassential Renewed [Forge / Fabric]"
+filename = "Glassential-renewed-neoforge-1.21-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kc9FSsYx/versions/p5cw7zem/Glassential-renewed-neoforge-1.21-3.0.0.jar"
+hash-format = "sha512"
+hash = "997e2bedecbfbeacf2d9e9a683d1126e443068a280489d53257d9290f3b7714be6e7505adea107e0c5be8985818c6b5982082c55322dfeb3866d27b0e5c53af5"
+
+[update]
+[update.modrinth]
+mod-id = "kc9FSsYx"
+version = "p5cw7zem"

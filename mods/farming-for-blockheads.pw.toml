@@ -1,0 +1,13 @@
+name = "Farming for Blockheads"
+filename = "farmingforblockheads-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/Cznkzj1O/farmingforblockheads-neoforge-1.21.1-21.1.2.jar"
+hash-format = "sha512"
+hash = "96318f901431aa412264e202adf6d1527ae3faf6f062981f0a1d3dd9b8a046dcce741181c0f74298f5d26ff7a0f13b6e7cf8e68482566695f454ce623026a95f"
+
+[update]
+[update.modrinth]
+mod-id = "4WJZr8JU"
+version = "Cznkzj1O"

@@ -1,0 +1,13 @@
+name = "Villages & Pillages"
+filename = "villagesandpillages-neoforge-mc1.21.1-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/klXONLDA/versions/ol8Sk5Qh/villagesandpillages-neoforge-mc1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "c060138f19f123b733286cd5e5d99e0c27d6f33945d127154055ecbbf9cfb6e3386c745fa475ef9012f02433e6a59778940c56706597b1181cff396326f447f9"
+
+[update]
+[update.modrinth]
+mod-id = "klXONLDA"
+version = "ol8Sk5Qh"

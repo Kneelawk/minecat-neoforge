@@ -1,0 +1,13 @@
+name = "Additional Lanterns"
+filename = "additionallanterns-1.1.1-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jXNvTKds/versions/Una49aTZ/additionallanterns-1.1.1-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "0d1069d977133d7774fdaf2667f39f9e6397c0c9b5fc73000d92163900afd0b67a6b6d1844a610f3d8a828ec596db29555d2f914fc3aae25aadfc15f76b3f3e4"
+
+[update]
+[update.modrinth]
+mod-id = "jXNvTKds"
+version = "Una49aTZ"

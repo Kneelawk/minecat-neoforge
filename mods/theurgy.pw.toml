@@ -1,0 +1,13 @@
+name = "Theurgy"
+filename = "theurgy-1.21.1-neoforge-1.55.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uOVMgoil/versions/oTaGqunB/theurgy-1.21.1-neoforge-1.55.1.jar"
+hash-format = "sha512"
+hash = "c7dde45ea2e197345095ef5316153741da27b08e0e3e88400e23e365e4dc50057332f7f50f754d2a2c04ed6e5b9aaeafb553c9c1caa757a704908a7304da762c"
+
+[update]
+[update.modrinth]
+mod-id = "uOVMgoil"
+version = "oTaGqunB"

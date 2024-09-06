@@ -1,0 +1,13 @@
+name = "Ranged Pumps"
+filename = "rangedpumps-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ceOkTRlU/versions/UXBUFwl2/rangedpumps-1.3.0.jar"
+hash-format = "sha512"
+hash = "eaa65b987597e65f32349ae7301454fe84c7d77bb5c590673f7c71fc1431834c2963e565a50bdbfbae3c30f73c921b699a85a272c97198b16d409bb7600d1f95"
+
+[update]
+[update.modrinth]
+mod-id = "ceOkTRlU"
+version = "UXBUFwl2"
