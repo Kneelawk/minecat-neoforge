@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "604c45678477a6bc8e498828d0ffc0e3e7a10152a279a12a07369e11cf529b36"
+hash = "c5e64630088c441e811fc7c2b72216f3f6a693b532c4ac33a5444d26df8a646d"
 metafile = true
 
 [[files]]
@@ -1118,11 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/theurgy.pw.toml"
 hash = "cc22c1ffd3d1f54efd8c35d0a1cb70d169295bb2bd8161f175ffbde6530f361b"
-metafile = true
-
-[[files]]
-file = "mods/tinkerers-smithing.pw.toml"
-hash = "98a1832d45493a5a6e50ca0f8a1c7c87e05ca7c6fdbf67b85c3ea223ba977556"
 metafile = true
 
 [[files]]
