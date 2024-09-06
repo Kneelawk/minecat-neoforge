@@ -1,0 +1,13 @@
+name = "Macaw's Roofs - Biomes O' Plenty"
+filename = "macawsroofsbop-neoforge-1.21-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5uSvd1Ca/versions/4hPFeZl1/macawsroofsbop-neoforge-1.21-1.0.jar"
+hash-format = "sha512"
+hash = "6f6562d36b0b06c6d682096f0621c8376705a19a58f63fd5c780e2c998637ff9b1f6ac46e23cf84f54f75cb00c9a36f624972e297e687e97c230145e789fac76"
+
+[update]
+[update.modrinth]
+mod-id = "5uSvd1Ca"
+version = "4hPFeZl1"

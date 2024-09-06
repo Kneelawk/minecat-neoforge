@@ -1,0 +1,13 @@
+name = "Packed Up (Backpacks)"
+filename = "packedup-1.0.30c-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZbFzEauY/versions/8R2QFBjX/packedup-1.0.30c-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "48d9ea833ea763586c917ae632e148a264a3799d5e5c88ff80c9293781797cc4ae64b00083ce65f52ad9c8bd5f7921d6e4da09572e38e21d9178ae01356cb2bb"
+
+[update]
+[update.modrinth]
+mod-id = "ZbFzEauY"
+version = "8R2QFBjX"

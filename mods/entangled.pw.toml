@@ -1,0 +1,13 @@
+name = "Entangled"
+filename = "entangled-1.3.19-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rylMOguI/versions/s2LgKrtm/entangled-1.3.19-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "7d551393572b1a1fae86aa93c0f21135ede70a98c2acb27eeac87955d05d67625831830e5a0569b1be046542ca1993f3028c663b7644762ebd76e5a7273e313c"
+
+[update]
+[update.modrinth]
+mod-id = "rylMOguI"
+version = "s2LgKrtm"

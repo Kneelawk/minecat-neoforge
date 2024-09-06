@@ -1,0 +1,13 @@
+name = "Macaw's Furnitures - Biomes O' Plenty"
+filename = "mcwfurnituresbop-neoforged-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XQ6CZtXV/versions/IpydAxjA/mcwfurnituresbop-neoforged-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "55c7a7701b937e5c908ae2d39626968d3053665c2bb49ab20bdd3407a5eaa032049b4f292372e93f129699113b7b78be11eb88c22a40d9bf27485eeaf49758b8"
+
+[update]
+[update.modrinth]
+mod-id = "XQ6CZtXV"
+version = "IpydAxjA"
