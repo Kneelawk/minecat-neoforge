@@ -1,13 +1,13 @@
 name = "Ars Additions"
-filename = "ars_additions-1.21.0-21.0.1.jar"
+filename = "ars_additions-1.21.0-21.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GYK6Gk8R/versions/BlFlsF2P/ars_additions-1.21.0-21.0.1.jar"
+url = "https://cdn.modrinth.com/data/GYK6Gk8R/versions/7z2AnyJY/ars_additions-1.21.0-21.0.2.jar"
 hash-format = "sha512"
-hash = "10a81472529d1a0e3dbee5eb99783f3e75d1bcedfbaaf8c9fb8b67b905421aeb4b326148216f3862cbc250650e00987d9ab1248ed76c2c1ab13c200dc8742584"
+hash = "173135bd3e896027508e9a75249746e159c7ae83b54dd2a664d034b47d804e5c9cc31cf2ab25819d1d7ea048ae01bffe3593c622f3615d1e6999ad8285792b59"
 
 [update]
 [update.modrinth]
 mod-id = "GYK6Gk8R"
-version = "BlFlsF2P"
+version = "7z2AnyJY"
