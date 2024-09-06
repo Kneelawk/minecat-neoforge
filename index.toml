@@ -151,6 +151,11 @@ hash = "609ae4d4c61d03677e9116fa8accd73570c3fb59ee72c9af222d5fda8ab78d49"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "3f1fc595f2cc2c4b1dc4f81fe28e2e04341b9cc67b710c184db73424d78ab0a4"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "34c5daafb44e7cddbd304989b9af66067833c1ae19a5bef1c667355812823821"
 metafile = true
@@ -1183,6 +1188,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "a9c466cd6b58f1b584239cdce99f9a153507c4a51ceb7060399eb068600e1c3e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "27e13e71152e5740213056d533e173f3dcd2fb5a8382b656b722a6924394f2f1"
 metafile = true
 
 [[files]]

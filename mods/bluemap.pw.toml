@@ -1,0 +1,13 @@
+name = "BlueMap"
+filename = "BlueMap-5.3-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/tStL3eQv/BlueMap-5.3-neoforge.jar"
+hash-format = "sha512"
+hash = "efbade5da4fe15fd318fdf0078fa0eaa6b46fad20086f1377d06b568ee94d8aad6fa22c791014e84e530e785e0f0ebc57f627ca32cbe10ab5978bf18e2ff0d76"
+
+[update]
+[update.modrinth]
+mod-id = "swbUV1cr"
+version = "tStL3eQv"
