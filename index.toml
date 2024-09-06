@@ -36,6 +36,11 @@ hash = "552c47f8ce23258b49b87af3edb2d2e8f18f1a2f068c54f9450374cc4e56248f"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4da30bf855ddb889e8306b98e0c871989b176b32959fa19069c528e4a39de89d"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
 metafile = true
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
-hash = "d6edbe9346b0b9c7e323c3508f53b6452333fa57c94a4805186fa45fd4993119"
+hash = "153d6296d4e3c862cc7c5eb6e8c174668877f9144bf9969ceaf67dcc6f37b262"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bad61e8d7d15f950c5c071bae6b6874e03009e83a220a4950b9c0920782d63fc"
+hash = "604c45678477a6bc8e498828d0ffc0e3e7a10152a279a12a07369e11cf529b36"
 metafile = true
 
 [[files]]
@@ -227,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "d2552df1dc28fdd1ef2cba31cac15c3e02fff8a51983776f57ad4ad08da8c828"
+hash = "72a25ca0491e718bf9c5a104cc7dd8e9409789c9e8fd91a03ddabbc9c4520235"
 metafile = true
 
 [[files]]
@@ -512,5 +517,5 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "f8bb64efe9c33cedcf2a0e4e115007f06b770cbd529407891b553c96bf9c214e"
+hash = "43e273d0d019d52bc1abef76b905e995fd6e323f55aa804e1004c6b9f6962a10"
 metafile = true
