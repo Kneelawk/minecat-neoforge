@@ -291,11 +291,6 @@ hash = "a8657b17be6c69a86165cfdc0493feb7dc55ecf60e2f67ee76f96d3d9230675e"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "cb88a2a07abcd42ab5ccea2d0685588363559e092c5a9cd7164d31f4a96a71f1"
 metafile = true
