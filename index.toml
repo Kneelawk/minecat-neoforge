@@ -656,6 +656,11 @@ hash = "72a25ca0491e718bf9c5a104cc7dd8e9409789c9e8fd91a03ddabbc9c4520235"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
 hash = "4a36d5326a115480f236c1e3f9275c85cb3a04b82692fe95d56f13aee2f7689b"
 metafile = true
@@ -1023,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "9ff6a5252fe28bb81473c5b16bbb0967f391635d65f455098fa6081368a8e82d"
+metafile = true
+
+[[files]]
+file = "mods/saros-essentials.pw.toml"
+hash = "c411fcb1e87a70af0ee70ba60436d427135adb86ff8b35683b659b18eea47cb7"
 metafile = true
 
 [[files]]
