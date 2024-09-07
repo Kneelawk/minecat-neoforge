@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "d03ee6e2fd52fb6ef6d315d4dd6b0c450c988873e7c94f96c2abfeac10ddb0ca"
+hash = "dc821e2d2703719cabe055e60f1a200fd6119705b2dff1574b2a3c6a287c796c"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
-hash = "f9da1c22b64994a45c90204c5ef0465233a5dbec4e34d104174589c274224c52"
+hash = "41184fab98d51c15fd9c29dff78ae950fa083330a60da2c68e938d58dd3038a7"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "a2717be2e4e77411191a019ec4f53d1488a66d12c03bdb5184cc0b896c2f9aee"
+hash = "129a289975e0839bc4a19892242575a679ef7a3317ef868fc48bf31af90a83fb"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "7a3a2970d81449e4567961f5051323b51c7b30b4053c2ebae6f12782b0e7b917"
+hash = "17c626fb487e0fc49c3c981b9fa5fda3145e08e746d43aad8074f118d39f2cb2"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract-api.pw.toml"
-hash = "13a7f03eb32eeefe007061ae33cf411c71834c70b09c492afdc6ed05989e0f40"
+hash = "4cac177c749cf754cfca52bddbf20884adf680ed6b95a6271ca64f04026584c4"
 metafile = true
 
 [[files]]
@@ -1152,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "db738027203922bcab36bfbab033d939f8651bd18cd85a975e25c78c4abd98ba"
+hash = "38900aa2d7c02198ee213cf206898efa001cdda33c7900b09a3bb0c9fa59b21d"
 metafile = true
 
 [[files]]
