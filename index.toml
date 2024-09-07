@@ -246,6 +246,11 @@ hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "d03ee6e2fd52fb6ef6d315d4dd6b0c450c988873e7c94f96c2abfeac10ddb0ca"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "00ecda97ab48c7021f7a053f35662c7dd14c4219c7bbd84c22b9dd5ba5f12e28"
 metafile = true
@@ -1018,6 +1023,11 @@ metafile = true
 [[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "59e07faf074fae8d6f9fdfb4f904a3c3bbd8840a8b45e5c82806215223bd8156"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "7a3a2970d81449e4567961f5051323b51c7b30b4053c2ebae6f12782b0e7b917"
 metafile = true
 
 [[files]]
