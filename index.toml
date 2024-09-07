@@ -761,6 +761,11 @@ hash = "9f6d09e7371b2183b00cec958e9cb1623a2f2fa2fe9c2c46cad73c56019cde3a"
 metafile = true
 
 [[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "ce06778a8c16f54d9705fa5b8e4faa0d5931c8e2feeb54bde28b2ce091968450"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "e8c1379a66f2db39b5c568d3c1e7d21066a15f00018b66476d8d6d68b1968048"
 metafile = true
