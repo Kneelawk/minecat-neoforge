@@ -1026,11 +1026,6 @@ hash = "9ff6a5252fe28bb81473c5b16bbb0967f391635d65f455098fa6081368a8e82d"
 metafile = true
 
 [[files]]
-file = "mods/saros-essentials.pw.toml"
-hash = "c411fcb1e87a70af0ee70ba60436d427135adb86ff8b35683b659b18eea47cb7"
-metafile = true
-
-[[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "59e07faf074fae8d6f9fdfb4f904a3c3bbd8840a8b45e5c82806215223bd8156"
 metafile = true
@@ -1108,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/sushigocrafting.pw.toml"
 hash = "02524558ba1627f353225932787184e95a69686c66573b8bd0e46dc332ec65f5"
+metafile = true
+
+[[files]]
+file = "mods/teleport-commands.pw.toml"
+hash = "e1db8b07c65d1b186d8515f9c50932ce7d469bb6995f26207537ad73e4190e09"
 metafile = true
 
 [[files]]
