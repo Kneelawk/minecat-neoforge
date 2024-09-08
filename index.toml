@@ -291,6 +291,11 @@ hash = "89f38aa967d414a6d25da73889762b9ebdc245886dbd8b33d51425fa731e4989"
 metafile = true
 
 [[files]]
+file = "mods/dank-storage.pw.toml"
+hash = "ba6e2709b77982d7bbb20ee695640030a1cce4ec084f4293d50c3043fdae1d4a"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "a8657b17be6c69a86165cfdc0493feb7dc55ecf60e2f67ee76f96d3d9230675e"
 metafile = true
