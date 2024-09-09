@@ -156,6 +156,10 @@ hash = "3f1fc595f2cc2c4b1dc4f81fe28e2e04341b9cc67b710c184db73424d78ab0a4"
 metafile = true
 
 [[files]]
+file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.1+1.21.1.jar"
+hash = "3306a46cf0c5b4d7a4c8c77d5b181c380e41d870ef86badc8e2d85df92f58ce1"
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "34c5daafb44e7cddbd304989b9af66067833c1ae19a5bef1c667355812823821"
 metafile = true
