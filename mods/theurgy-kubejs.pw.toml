@@ -1,13 +1,13 @@
 name = "Theurgy KubeJS"
-filename = "theurgy_kubejs-1.21.1-neoforge-1.3.3.jar"
+filename = "theurgy_kubejs-1.21.1-neoforge-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oXj2r26F/versions/v3b3E6Km/theurgy_kubejs-1.21.1-neoforge-1.3.3.jar"
+url = "https://cdn.modrinth.com/data/oXj2r26F/versions/cULrQDyD/theurgy_kubejs-1.21.1-neoforge-1.4.0.jar"
 hash-format = "sha512"
-hash = "bba56c671d3b24ab89516837767a221173ba6d8f6a78e07f896db5fa189da85de7e232214276b43050ec4beed1e3eab30e67ed11acbfb7587f8665309844a08e"
+hash = "e447a36a0e97792d656b45352ff40a09e7e2e77fe1db49933b369ed8120eb50997398f798e356cb160158c2a0861c8608ca1c9119980fe933ce192200e9f308b"
 
 [update]
 [update.modrinth]
 mod-id = "oXj2r26F"
-version = "v3b3E6Km"
+version = "cULrQDyD"
