@@ -974,6 +974,11 @@ hash = "7c454e8e6eaaf3174badc5bf257280b53c17077c83d4d11b34f5f09e71d14d82"
 metafile = true
 
 [[files]]
+file = "mods/radium.pw.toml"
+hash = "97309f814ea4c86c6b47604d7adb5ae1ff5061aa32a79542a3b439f4a9884264"
+metafile = true
+
+[[files]]
 file = "mods/railcraft-reborn.pw.toml"
 hash = "1e78d94087ea1867aeb63448f92a866a4a309d3fa22c41090c3602eae28df99b"
 metafile = true
