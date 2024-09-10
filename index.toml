@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedae.pw.toml"
-hash = "b00365dbcb31e18629a4cb6b241fdc15c4c28eb76432437004d97c7e78fc5b11"
+hash = "e28494ae174df8791cec4a40e2ecfe70a6744c639651c489985c8c13e714678d"
 metafile = true
 
 [[files]]
@@ -161,8 +161,8 @@ hash = "3f1fc595f2cc2c4b1dc4f81fe28e2e04341b9cc67b710c184db73424d78ab0a4"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.1+1.21.1.jar"
-hash = "3306a46cf0c5b4d7a4c8c77d5b181c380e41d870ef86badc8e2d85df92f58ce1"
+file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.3+1.21.1.jar"
+hash = "67f17719c36e258bbd81fce4b9342a388d7d573c4ac00282794109676b16c353"
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "eeff27a394c4433a02a51807c96abbf345631c88e90ad2d20bb40d3323f8c208"
+hash = "fefd2a13c8496ce44dd70879715b1a2ec786b4c8a4010b7089e5dc526f766154"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "b923b40734658f846854be416b4bc139f149c86f6ccbd339a56b2b02f129f11f"
+hash = "a615ce5cf2bc8537dbd07975fabb61c9e3c93c1e1fb6bc0de2ce90a35dcfb5ce"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ffb56be89a569d45609744f6768ee654470d740dcb22dc31518464848475f26a"
+hash = "8da274d01b250190e8c6163343ae9357ea53f0aa4b332205a70bb164fd68fa5f"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "70326431a74e31d5a43d365021abd9612fc324ba3493460ff3fd9d7e2a32a186"
+hash = "d0685592e8d2ebd18610104dc78c21591885867c770cd73e60f2eef3400c60b7"
 metafile = true
 
 [[files]]
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "8ef4108790e3e66048339edcc6c040e611f4b80473442298291485f624971846"
+hash = "717e97017408915842939dabc50b61bd028e3cfd17b51085c638be40905b1d26"
 metafile = true
 
 [[files]]
