@@ -71,6 +71,11 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "805836d2bc0a04b37affd0fadaa4bc451ee67f8546bf7e093293bedc732f8626"
+metafile = true
+
+[[files]]
 file = "mods/apothic-spawners.pw.toml"
 hash = "3245a2a76a55db43768991c615ab512a6fdc218d079ad83c1a67eb33c9aabdf6"
 metafile = true
@@ -815,6 +820,11 @@ hash = "4198373e9d8905e968b94c0b180c2149996bcb0323bf8524f3e1007c463c082c"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "1aa71d363f0e268fa5198cfbe8d7367f4356f3ccdfaded3047d3117060fc986c"
+metafile = true
+
+[[files]]
 file = "mods/more-red.pw.toml"
 hash = "3e7dce04f7d23c326d5311e59be7046c9fdd44ffa148129a7559523f16be4651"
 metafile = true
@@ -1197,6 +1207,11 @@ metafile = true
 [[files]]
 file = "mods/underground-villages.pw.toml"
 hash = "06de11824252f4bc21c05d672f9a0cc82946bab51cb7386c85e656732c160638"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "56ef0e12747296cb9e95b3e7c0011c3ae61d996f5c4d5ea53ffc2594b53163e4"
 metafile = true
 
 [[files]]
