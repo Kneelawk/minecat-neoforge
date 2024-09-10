@@ -71,11 +71,6 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "805836d2bc0a04b37affd0fadaa4bc451ee67f8546bf7e093293bedc732f8626"
-metafile = true
-
-[[files]]
 file = "mods/apothic-spawners.pw.toml"
 hash = "3245a2a76a55db43768991c615ab512a6fdc218d079ad83c1a67eb33c9aabdf6"
 metafile = true
@@ -300,9 +295,8 @@ hash = "89f38aa967d414a6d25da73889762b9ebdc245886dbd8b33d51425fa731e4989"
 metafile = true
 
 [[files]]
-file = "mods/dank-storage.pw.toml"
-hash = "ba6e2709b77982d7bbb20ee695640030a1cce4ec084f4293d50c3043fdae1d4a"
-metafile = true
+file = "mods/dankstorage-neoforge-1.21.1-6-beta.jar"
+hash = "7470cf7625f8981b8bff1604a1f83e9d0d1093a89350b703448c01cfa38638d4"
 
 [[files]]
 file = "mods/dark-enchanting.pw.toml"
