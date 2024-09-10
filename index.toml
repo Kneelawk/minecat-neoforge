@@ -1140,6 +1140,11 @@ hash = "5a1192f55aa9cfbf98d555e0078519ced134a47ad509f92f6abccf60adef2dcb"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "4faa06044f7f215ca8fa85f7fd0b9d8b6b7d422af5e06dec07b5b9c2833a75d6"
+metafile = true
+
+[[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "508a5d5353167af6bc29a8ed2cb04d24932e376c5f906273c47723f96cd95c8b"
 metafile = true
