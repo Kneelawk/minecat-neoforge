@@ -121,9 +121,8 @@ hash = "7bbbc36588ba817da35d9329b90c206248482ebd64f81c897ba6d240b428bc8e"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "8f2703d1f84c8bc79d71e1ff5284b64b04e8b97ce371c9df92e964c36af1daa2"
-metafile = true
+file = "mods/artifacts-neoforge-12.0.6.jar"
+hash = "3024ef72198096730f33649952c4a6d40fca27ae250ebd3bf87ebf1335770636"
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
@@ -133,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "fe9da651b472af0feb0e92122d68ae48a3a12c3fbd90740ec96d6dc6fb553b4d"
+metafile = true
+
+[[files]]
+file = "mods/bank-storage.pw.toml"
+hash = "5fb996b822da6f60942f6a760f8f68deacb87cd2bba9f5fbec16a1d457dbcea5"
 metafile = true
 
 [[files]]
@@ -295,10 +299,6 @@ hash = "89f38aa967d414a6d25da73889762b9ebdc245886dbd8b33d51425fa731e4989"
 metafile = true
 
 [[files]]
-file = "mods/dankstorage-neoforge-1.21.1-6-beta.jar"
-hash = "7470cf7625f8981b8bff1604a1f83e9d0d1093a89350b703448c01cfa38638d4"
-
-[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "a8657b17be6c69a86165cfdc0493feb7dc55ecf60e2f67ee76f96d3d9230675e"
 metafile = true
@@ -351,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "6f49a6b513a5ff3425909151c85b6ec808e19b6d37e2343c7ea676000a9d1121"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "2623547f33adb5e3369f069ee246c70c8701704c572350da6b2589a7bb1aee6d"
 metafile = true
 
 [[files]]
@@ -624,6 +629,11 @@ hash = "ddab8ece52ef4de156bdc6906520555933229be2eed27357d5c72176e7f65280"
 metafile = true
 
 [[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "3e3baf1765c094ff7c197b48f4357a0c65b0f00788ccd889d4cf6e3a0cf23a27"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-mekanism.pw.toml"
 hash = "5f2ab645c295c151666b7219cba5f8b38dd5ac2f8cb73e20c7f4704a219f0bc6"
 metafile = true
@@ -819,6 +829,11 @@ hash = "1aa71d363f0e268fa5198cfbe8d7367f4356f3ccdfaded3047d3117060fc986c"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "726c931e02a15b5454d7f3b08e61fe6d24b2a56147bed31c172d9ffeb3940f5b"
+metafile = true
+
+[[files]]
 file = "mods/more-red.pw.toml"
 hash = "3e7dce04f7d23c326d5311e59be7046c9fdd44ffa148129a7559523f16be4651"
 metafile = true
@@ -956,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/pylons.pw.toml"
 hash = "7c454e8e6eaaf3174badc5bf257280b53c17077c83d4d11b34f5f09e71d14d82"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "05838ebe0d0ed00f8801dbcd4a9291942f13d6e3cee5e18547ad63fe9cc88fd5"
 metafile = true
 
 [[files]]

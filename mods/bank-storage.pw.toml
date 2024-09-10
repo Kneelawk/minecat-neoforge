@@ -1,0 +1,13 @@
+name = "Bank Storage"
+filename = "bankstorage-1.4.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RyNZlwbP/versions/sy552vfB/bankstorage-1.4.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "14ae0cc129d13753e93b8926556a17578d0582456a060ff4ae23eacf736b7d44fab648747347b2d1d1c17592ab7948ad54b6a057d25923b92c5f3732d4417178"
+
+[update]
+[update.modrinth]
+mod-id = "RyNZlwbP"
+version = "sy552vfB"
