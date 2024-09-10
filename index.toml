@@ -135,9 +135,8 @@ hash = "fe9da651b472af0feb0e92122d68ae48a3a12c3fbd90740ec96d6dc6fb553b4d"
 metafile = true
 
 [[files]]
-file = "mods/bank-storage.pw.toml"
-hash = "5fb996b822da6f60942f6a760f8f68deacb87cd2bba9f5fbec16a1d457dbcea5"
-metafile = true
+file = "mods/bankstorage-1.4.0+1.21.jar"
+hash = "2c255e5f2738c43a9545fad8bb4fc73236a7039b4986753f4178400a1e9e5fd3"
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
