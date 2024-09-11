@@ -1,0 +1,13 @@
+name = "Utility Belt"
+filename = "utility-belt-neoforge-2.4.3+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ewe2JHJ/versions/paXmBg41/utility-belt-neoforge-2.4.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "347b7b2d42eb024a12dbaa145d1034572998965d8be986ee0540091bcc4c61dfe66a9c14f0b98ec61d9214fa53f02f2695691099b7b3ddd667e3063dc49d4627"
+
+[update]
+[update.modrinth]
+mod-id = "9ewe2JHJ"
+version = "paXmBg41"

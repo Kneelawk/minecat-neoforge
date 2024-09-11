@@ -6,6 +6,16 @@ hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "9567759dec1a7a42beee905bfbd9259eceaa13efb92f5ac3eb0153492033e0dd"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "b7ebcd08660110d52108423568e4d4770892d84fbf99cc56e39b6e4a927181f8"
+metafile = true
+
+[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "85cd77b9602245b5b3a57297b3e6e026fc97733a1a45de52b0b8c5f22766ffb9"
 metafile = true
@@ -27,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedae.pw.toml"
-hash = "e28494ae174df8791cec4a40e2ecfe70a6744c639651c489985c8c13e714678d"
+hash = "a55f88ea7062172acb4c50922b8a02e31793e44ce9dbdb10fdd766e0ff7952af"
 metafile = true
 
 [[files]]
@@ -274,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "ddda07e4f95380f44fa4a937384b77fed24654ed297bd6e3067e390fce785224"
+hash = "aab8dd005fc4575cf519314d178662e2f640a99d08ba2c5be616beea2dad0e11"
 metafile = true
 
 [[files]]
@@ -284,12 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
-hash = "b5aa80c84616197929ed934676850379fb60a471c322af8b151a801969fdf92f"
-metafile = true
-
-[[files]]
-file = "mods/curios-continuation.pw.toml"
-hash = "4fcffc56747674474e58d4287175f208a39d372a85fa4c92ea21d43adb373dae"
+hash = "d9726012423f09ff8962eb20c479b69c287d365241769650ce05f1fc29a95356"
 metafile = true
 
 [[files]]
@@ -608,6 +613,11 @@ hash = "792f0f5ba850fe4d210e8bbbc115b2cfa6d4fadfb70bb50942628cd5aaf29e8c"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "cf38101ea90a4d3f383f7baaac6a519f4d8e4f92b82c12c38eecadd291dcc257"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "8da274d01b250190e8c6163343ae9357ea53f0aa4b332205a70bb164fd68fa5f"
 metafile = true
@@ -669,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "72a25ca0491e718bf9c5a104cc7dd8e9409789c9e8fd91a03ddabbc9c4520235"
+hash = "a03885038c95bfb17694ef96094c279a3ddf4c9376ca35097b50919d523a3758"
 metafile = true
 
 [[files]]
@@ -809,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "717e97017408915842939dabc50b61bd028e3cfd17b51085c638be40905b1d26"
+hash = "011b09f24d3f76cd9a8a9daf4d38790075ccfd94be339f3bc00bc175ef4e0fbd"
 metafile = true
 
 [[files]]
@@ -824,12 +834,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1aa71d363f0e268fa5198cfbe8d7367f4356f3ccdfaded3047d3117060fc986c"
+hash = "a73baac90814ab1ea4326b010bae0db28f1b93be6b098c4c069103fb4a565e5e"
 metafile = true
 
 [[files]]
 file = "mods/more-delight.pw.toml"
-hash = "726c931e02a15b5454d7f3b08e61fe6d24b2a56147bed31c172d9ffeb3940f5b"
+hash = "e2b2eeacd28e6b6a013e73bfa989e8bfd34ca3c27f0f42a15749bdca6ea00a2b"
 metafile = true
 
 [[files]]
@@ -884,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "7e29cd8e13514f8e5b211e34ee133490135f0a04cb05a271a9360fca4c8e7641"
+hash = "2bbaf018e311609b0f783352d2b04e98511545f509b2fa7387a8054e70939420"
 metafile = true
 
 [[files]]
@@ -965,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/productivetrees.pw.toml"
 hash = "d76648ea80814c85963c39b8de0a26c56bb39fc3674dc5f56043ede52801a1bc"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "8b67eac9e3dd51d0246c9d8e5d2ee3358d51147d7c1c9622b42a4bc8f4fcf3ca"
 metafile = true
 
 [[files]]
@@ -1113,6 +1128,11 @@ hash = "c9b8faf77a21f948609b3c4803af6cb636737a6193cf099444ade8fa561ceaeb"
 metafile = true
 
 [[files]]
+file = "mods/spiky-spikes.pw.toml"
+hash = "6a476ea938ca73ee0079942e2971d8283e456bf9a31a396bb07eaa1b85a03dd5"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "59a592eeb065794f82f465bd742479e39690f2caf75b726209610a6790d88ff3"
 metafile = true
@@ -1225,6 +1245,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "56ef0e12747296cb9e95b3e7c0011c3ae61d996f5c4d5ea53ffc2594b53163e4"
+metafile = true
+
+[[files]]
+file = "mods/utility-belt.pw.toml"
+hash = "cabc5d1354016c339b08fe7dbfea22b3a8b08f2a0ea8b9ddc56c754157ec134d"
 metafile = true
 
 [[files]]
