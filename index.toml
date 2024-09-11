@@ -558,6 +558,11 @@ hash = "a80d533d709fa41f9a34ef71ecbc25093a0f1e63d3dc30ba022e50972cf246c7"
 metafile = true
 
 [[files]]
+file = "mods/industrialization-overdrive.pw.toml"
+hash = "52fb9cdf95f3b308954cd30aacaac4e63564a8b0111b47a95fc1183f5877f210"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "43750cdc2b3cf9096bf01d8727e92ae16b190a7180b953630f119adc5fdd242e"
 metafile = true
