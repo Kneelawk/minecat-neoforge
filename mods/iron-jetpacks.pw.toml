@@ -1,13 +1,13 @@
 name = "Iron Jetpacks"
-filename = "IronJetpacks-1.21.1-8.0.3.jar"
+filename = "IronJetpacks-1.21.1-8.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DWIEOniQ/versions/jx2a1Rd8/IronJetpacks-1.21.1-8.0.3.jar"
+url = "https://cdn.modrinth.com/data/DWIEOniQ/versions/avGILAz7/IronJetpacks-1.21.1-8.0.4.jar"
 hash-format = "sha512"
-hash = "537825a42e91d2d7f42cd01be54f189bfb9bcc47554996a4f1ea5751b986f5b5c52fb50b2de3f24f765f7953ac2aedcdb2b21155052bb4d6b13c495494a28f0a"
+hash = "d888865110730f14b34810f2b3344832397eed7bb71875f04e6d904387c5645fa885f2464d417a7d602aed122775839bae74db4e0603e244c142a95ce84c7fdf"
 
 [update]
 [update.modrinth]
 mod-id = "DWIEOniQ"
-version = "jx2a1Rd8"
+version = "avGILAz7"

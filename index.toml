@@ -145,8 +145,9 @@ hash = "fe9da651b472af0feb0e92122d68ae48a3a12c3fbd90740ec96d6dc6fb553b4d"
 metafile = true
 
 [[files]]
-file = "mods/bankstorage-1.4.0+1.21.jar"
-hash = "2c255e5f2738c43a9545fad8bb4fc73236a7039b4986753f4178400a1e9e5fd3"
+file = "mods/bank-storage.pw.toml"
+hash = "88c5f1f191d8da5ab7d95d8bfe00cbf8ab053ad82fcf1382ec568be22b2240ac"
+metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
@@ -169,8 +170,8 @@ hash = "3f1fc595f2cc2c4b1dc4f81fe28e2e04341b9cc67b710c184db73424d78ab0a4"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.4+1.21.1.jar"
-hash = "7ebae7a5a101eee75eeea4b5a1e5976a4e10c0b2746a027403e88d248b668345"
+file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.6+1.21.1.jar"
+hash = "8785c927204a252d5f624085e0d5011667ea03e1fa03c6d35aad187818523714"
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
@@ -184,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "43cbc20154d5384b8ab76844b0bed85b84a9e9cd8155241c7a3db825bba06154"
+hash = "fcd91625ba584d6ec769a3210d178dcbd82eb8b0b8254c7c65140f925a11d4b6"
 metafile = true
 
 [[files]]
@@ -479,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "997dcd47df47a536e2ef62c5dac2497a8b684fb4f3b44b76b52119f6e8ba5577"
+hash = "69fcc22b97acd846ef643c61f107cce10233345d1dea278865bd8cbfcae30c50"
 metafile = true
 
 [[files]]
@@ -599,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
-hash = "614d0501fd3ea1d8292bc6c372ac36fc9905fe242cb8d00a9ffed2ab3c562ce3"
+hash = "d0035d56a3272b636e962e5bf0d72842a2c6b1390c7895cef454a62a08f6d864"
 metafile = true
 
 [[files]]
@@ -624,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8da274d01b250190e8c6163343ae9357ea53f0aa4b332205a70bb164fd68fa5f"
+hash = "ef29546a6180739c8635090e6421acbef3149f08b779df9f9d5eaa4512ff795c"
 metafile = true
 
 [[files]]
@@ -824,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "011b09f24d3f76cd9a8a9daf4d38790075ccfd94be339f3bc00bc175ef4e0fbd"
+hash = "94eb6263d3f40987ebd33d19d18ed9b0d9aa41e46fc413b12243a731130d9dd2"
 metafile = true
 
 [[files]]
@@ -869,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "9e328b06fe523e0276b1c0e10c5689b52b9c8fe1fe312a686bf3b8f0e8d79b01"
+hash = "3c92f6fe01f5b6688d6cf52e42b1ee00d71beb19eb0dbdd93a65a128ef436503"
 metafile = true
 
 [[files]]
@@ -899,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "2bbaf018e311609b0f783352d2b04e98511545f509b2fa7387a8054e70939420"
+hash = "0911650200bdbbf7a99bcf233412b2691363e98e85b4d27b0635136d8d6b617a"
 metafile = true
 
 [[files]]
@@ -984,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8b67eac9e3dd51d0246c9d8e5d2ee3358d51147d7c1c9622b42a4bc8f4fcf3ca"
+hash = "7788ff02204f100ef2a79dfd365c4c5ea83e0fbf5823c43fbf9e05db159b525c"
 metafile = true
 
 [[files]]
@@ -1139,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-delight.pw.toml"
-hash = "59a592eeb065794f82f465bd742479e39690f2caf75b726209610a6790d88ff3"
+hash = "d1233799795f17a94fbc2e08c08d54a2a6e8f1d8ebcb28063574e91eb1c3ebaf"
 metafile = true
 
 [[files]]
@@ -1154,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "38b08751504526cf508d30769397bed875a8a361365e7e5c9943166ca8136059"
+hash = "afdc748ecde64ddb86eb1945f66886a79b9a7f02a7cd2aca8190258ed05e6783"
 metafile = true
 
 [[files]]
@@ -1204,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/theurgy.pw.toml"
-hash = "cc22c1ffd3d1f54efd8c35d0a1cb70d169295bb2bd8161f175ffbde6530f361b"
+hash = "d2cc8fe1f49fa8021faf6681e8354012cea60bbf2468d52fc08168766a45a7a3"
 metafile = true
 
 [[files]]
