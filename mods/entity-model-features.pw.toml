@@ -1,13 +1,13 @@
 name = "[EMF] Entity Model Features"
-filename = "entity_model_features_neoforge_1.21-2.2.4.jar"
+filename = "entity_model_features_neoforge_1.21-2.2.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/GmYfTotf/entity_model_features_neoforge_1.21-2.2.4.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/RtWSn79j/entity_model_features_neoforge_1.21-2.2.5.jar"
 hash-format = "sha512"
-hash = "c273729eb0d9ee5f5b46becdc44bf7c09079639eff5ef6ac068bdfdc067cbbc31423ad7bda2e372095163e9498c6ca9fddcb9587042bd9f11783d17614bf725c"
+hash = "485cf5e8574b0c57c56df9d8930baef3bb8a03532f0093bedf00c34cf8f835a745d0d0c00b84f09d92e6cf5ccbf65a9c42f1c8e39eeaa8f5d3ccd151c8d6a5c8"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "GmYfTotf"
+version = "RtWSn79j"
