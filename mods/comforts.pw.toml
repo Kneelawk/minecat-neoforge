@@ -1,13 +1,13 @@
 name = "Comforts"
-filename = "comforts-neoforge-9.0.1+1.21.jar"
+filename = "comforts-neoforge-9.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SaCpeal4/versions/tIbZJEUK/comforts-neoforge-9.0.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/Amo1EWsq/comforts-neoforge-9.0.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "817243af1456502118c01fd440e7f3a1546ab040cd9ea973898737c4a12cb9a2f279cf125e19af00e44f4e7bb6fa0f86386d61e2ba262b5ed63a43330db1e302"
+hash = "4fc44162be97ca24f5946f7c717cf623c5561e3f0fc834e18700d7106a1b6e5372ef3e551516aeb1314098db77308734a25651ff4e7cbfc64411d76a4ffae3d7"
 
 [update]
 [update.modrinth]
 mod-id = "SaCpeal4"
-version = "tIbZJEUK"
+version = "Amo1EWsq"
