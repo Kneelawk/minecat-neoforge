@@ -11,9 +11,8 @@ hash = "6e485e0dba7a9c705e66f033cc63d0700776720f1278d86a551af9c40551ac17"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "0960fb69244d9706d90eddbf51f09fccc348f59bfd59756a0fcba228b0e8c0a5"
-metafile = true
+file = "mods/accessories-neoforge-1.0.0-beta.34+1.21.jar"
+hash = "231c7d7e96da4e1a6aca664dea50742f075826959ac6fa6a5344d7f4c85d904d"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
