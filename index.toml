@@ -563,6 +563,11 @@ hash = "ca345b88f19190610d55b53d5985a637d80f28bafe32739adc0bd37b394b640d"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "6cc7819daa436e2b2185a67515e0b8e6815fdc9cffc45d9ad745a31acfffa0f9"
+metafile = true
+
+[[files]]
 file = "mods/hyperbox.pw.toml"
 hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
 metafile = true
@@ -814,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecat-utils-fixes-neoforge-0.1.99+1.21.1.local.jar"
-hash = "48df2b3ef7057e08ea8d5dbc38e71f37407b075ff8139134eb874bfd9e424a34"
+hash = "d6cf424eab67419dd6b544a7b1ffbadd5ea2391a7953bdc71027e49436a768f3"
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
