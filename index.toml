@@ -299,6 +299,11 @@ hash = "d9726012423f09ff8962eb20c479b69c287d365241769650ce05f1fc29a95356"
 metafile = true
 
 [[files]]
+file = "mods/cuisine-delight.pw.toml"
+hash = "5bc3d4b075b34dde61898c3ccc95c622a3177a7f49ae04bfbf8c84c4a1765bb8"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "89f38aa967d414a6d25da73889762b9ebdc245886dbd8b33d51425fa731e4989"
 metafile = true
@@ -344,6 +349,11 @@ hash = "8d8505c08f5b7e4f570887c5c09b64b4cfc5ef15242d84649c4acf7536f9b8a5"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "702b3946f3535bd96bae4a3ddd3683e18c4dbed71bef675f6660e187de856866"
+metafile = true
+
+[[files]]
 file = "mods/emi-professions-(emip).pw.toml"
 hash = "30f4cd4174d8c6eeaf13b47a6388404c91c7764e4317cf71ec08c629ec75de3c"
 metafile = true
@@ -361,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "6f49a6b513a5ff3425909151c85b6ec808e19b6d37e2343c7ea676000a9d1121"
+metafile = true
+
+[[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "8610ec09ee4c889886fb0e65dfc4cfffca7064f6913425a151799e732e9a5914"
 metafile = true
 
 [[files]]
@@ -501,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "ae090cbebafa154ceec8e76d39e91349b94823c86762e75536c7cea4f4cb83ff"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "b202cb1fbf18dd1fd4fe5a1491feea37088513248f75872b89c521487635d8c7"
 metafile = true
 
 [[files]]
@@ -873,6 +893,11 @@ hash = "a5e040f05541f13e0eca902bd25f8e944672881beb8c3a9cb994b411b9af5353"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture-delight.pw.toml"
+hash = "0bb822a26669d4db9f1ee12d0c2176f675b2ce4b8d5f4589b359da917a3fd1a8"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "3c92f6fe01f5b6688d6cf52e42b1ee00d71beb19eb0dbdd93a65a128ef436503"
 metafile = true
@@ -1010,6 +1035,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-pumps.pw.toml"
 hash = "2d17d3270f112f319d89e03777678b48ea31c5562ad819c71a7b205a8468e17d"
+metafile = true
+
+[[files]]
+file = "mods/rar-compat.pw.toml"
+hash = "02bd9e7f19b8f195bfdb043758dc53c22ffb99585b2de99c4c69ee9b81bf15af"
 metafile = true
 
 [[files]]

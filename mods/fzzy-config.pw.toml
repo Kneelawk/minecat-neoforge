@@ -1,0 +1,13 @@
+name = "Fzzy Config"
+filename = "fzzy_config-0.4.1-fix1+1.21+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/LBGv941w/fzzy_config-0.4.1-fix1%2B1.21%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "f00b31261a3512ddebdbbfe6c4326563337bef63f231d9f61e9874b25ee30e0f5ad7aaae7a92a580384a36b3d5ad975405726d1578861bda95c9258bab4808b9"
+
+[update]
+[update.modrinth]
+mod-id = "hYykXjDp"
+version = "LBGv941w"
