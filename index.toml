@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecat-utils-fixes-neoforge-0.1.99+1.21.1.local.jar"
-hash = "045f80fdde498878b4ba6ea38ee30e39e51db504311a140a811e695287f5594b"
+hash = "f264acbb07db6d4ee03e98876e61170b1cf732bfbd786b2dd3f9bea33a1139c5"
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
