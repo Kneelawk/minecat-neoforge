@@ -1,13 +1,13 @@
 name = "SmartBrainLib"
-filename = "SmartBrainLib-neoforge-1.21.1-1.16.jar"
+filename = "SmartBrainLib-neoforge-1.21.1-1.16.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PuyPazRT/versions/R8Pa0oLU/SmartBrainLib-neoforge-1.21.1-1.16.jar"
+url = "https://cdn.modrinth.com/data/PuyPazRT/versions/sjFmt7zo/SmartBrainLib-neoforge-1.21.1-1.16.1.jar"
 hash-format = "sha512"
-hash = "39a28af06b1256403719d539d399f4f5368c65d969662111ecc3e24deee8b9d6b130958b51240d6926854be4194dd759e5de7ccc65d8a46a7d22db74c887f40a"
+hash = "51a4a3f5c3c0ebb35cc48bcf5b22d418af2aa79251590871ae46436c70e1c2c9097a64dc7fb90d55680a55f6f8478edbdca960bd293e8319bf037014f1f271fb"
 
 [update]
 [update.modrinth]
 mod-id = "PuyPazRT"
-version = "R8Pa0oLU"
+version = "sjFmt7zo"
