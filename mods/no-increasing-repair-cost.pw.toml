@@ -1,0 +1,13 @@
+name = "No Increasing Repair Cost"
+filename = "No Increasing Repair Cost-neoforge-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LyBfWHkb/versions/amdGReR5/No%20Increasing%20Repair%20Cost-neoforge-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "4018ab4bfb5e394ec7048c24fb74a58d96548776eb76d024b5dc5d31b2a19c11885a13558bfda42d1aa3620e32f76860a6535d241a7eff0422440f1c15abbefe"
+
+[update]
+[update.modrinth]
+mod-id = "LyBfWHkb"
+version = "amdGReR5"

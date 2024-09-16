@@ -1,13 +1,13 @@
 name = "Radium"
-filename = "radium-mc1.21.1-0.13.0a+git.f597bd8.jar"
+filename = "radium-mc1.21.1-0.13.0b+git.9938f59.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/2gvRmQXx/versions/BQ5vXxej/radium-mc1.21.1-0.13.0a%2Bgit.f597bd8.jar"
+url = "https://cdn.modrinth.com/data/2gvRmQXx/versions/bzZXJMCd/radium-mc1.21.1-0.13.0b%2Bgit.9938f59.jar"
 hash-format = "sha512"
-hash = "3b98c91cfc09e0f5a80a294f0f7257e0eb96439692133725a9a75ebb65d5a5869f87174402169c9a435ada7aa6c9ca00db5004d24544fad616de04b682ae4d19"
+hash = "5430b3a8e31f0961c56329a2718501cc5a9a969d26297c18b1b3a9c7d8a2913ca2ca0a5f4c319669145d3e287a636cd5885b49bc99f5f6ce25ca0ed67dbd58a4"
 
 [update]
 [update.modrinth]
 mod-id = "2gvRmQXx"
-version = "BQ5vXxej"
+version = "bzZXJMCd"

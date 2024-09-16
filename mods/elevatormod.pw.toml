@@ -1,13 +1,13 @@
 name = "ElevatorMod"
-filename = "elevatorid-1.21-1.10.1.jar"
+filename = "elevatorid-neoforge-1.21.1-1.11.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/v0RpBU28/elevatorid-1.21-1.10.1.jar"
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/GTYY4xJc/elevatorid-neoforge-1.21.1-1.11.3.jar"
 hash-format = "sha512"
-hash = "e76ae8ccd143f5c5655556a48eb5ab930e272ec4992b4ae6ef2589438e570e886434bc2d7c6f25d726020933c73f0ab72b003eb8fc9e01b3198f01d6bf035ea3"
+hash = "7393a93c524b8068f0c9faa01d351a5285958ca0b19d9fca777d553951fc828d579066a57931586f8d8988af4c14f9ec9f5c978f09dd641ff2d61ddae6f329d1"
 
 [update]
 [update.modrinth]
 mod-id = "hi2dSXTu"
-version = "v0RpBU28"
+version = "GTYY4xJc"

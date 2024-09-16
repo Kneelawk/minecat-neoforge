@@ -1,13 +1,13 @@
 name = "AEInfinityBooster"
-filename = "aeinfinitybooster-neoforge-1.21-1.0.1.38.jar"
+filename = "aeinfinitybooster-neoforge-1.21-1.0.1.39.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VQhDBNs8/versions/6dK6lGaF/aeinfinitybooster-neoforge-1.21-1.0.1.38.jar"
+url = "https://cdn.modrinth.com/data/VQhDBNs8/versions/UCY2orGZ/aeinfinitybooster-neoforge-1.21-1.0.1.39.jar"
 hash-format = "sha512"
-hash = "2222bdad377ffae91e259af3e7986b458d17a520d84fc0c8eed3d23bf96f6bb08d849cce263bf3ac5bebd48800f175bb362703bdffe36e8c5cee88859bdc3f7e"
+hash = "de5fcbc96aab254026ca0d6762f2bbe41d78e8a0a8cb405db3cba05601cd285b9b482d38e04d792d2452e18828b7dc7689212a08819c66d8975ef56f0e0f1954"
 
 [update]
 [update.modrinth]
 mod-id = "VQhDBNs8"
-version = "6dK6lGaF"
+version = "UCY2orGZ"
