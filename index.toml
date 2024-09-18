@@ -268,6 +268,11 @@ hash = "dc821e2d2703719cabe055e60f1a200fd6119705b2dff1574b2a3c6a287c796c"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9aa37bec9f5824fcb50ea47bdbd5f3659684d809e179a71679220f766682cea7"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "84fe2e65b4bb3cbe9017d7c36036a88829d38751093d55c5f4b540ceac855a13"
 metafile = true
@@ -348,6 +353,11 @@ hash = "b5f831982eda350230c8dd68ba39aa49f39a56a707562f21f244774f1a1db735"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "702b3946f3535bd96bae4a3ddd3683e18c4dbed71bef675f6660e187de856866"
 metafile = true
@@ -399,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0b6b4aad89c928e306a7489c203fe91f19d7ae51819d04eb83232df5a714274f"
+hash = "0f55f9d2850da50f95160c51c0233828ae5feb8d53c7d8d4656f13ab5ddc235d"
 metafile = true
 
 [[files]]
@@ -553,8 +563,18 @@ hash = "37fc31f11c9fd758cc74e589d88685dc633b893213fb79c309c9ea546b6dd30e"
 metafile = true
 
 [[files]]
+file = "mods/gputape.pw.toml"
+hash = "6f4f84b661ea9874bea014957ffdcb310b4fd9abe871d35c1c3558cf5163bc3a"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "c652b150106c31a74aa36db87e5f7dc08b57a5ee86c0f37e08dd6982f256a209"
+metafile = true
+
+[[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "d417dcd1fd80a8f373016d0dcfa7fca3fa1271ca146881f5deef29c2a9816895"
 metafile = true
 
 [[files]]
@@ -580,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a80d533d709fa41f9a34ef71ecbc25093a0f1e63d3dc30ba022e50972cf246c7"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "c871af1b7512c7163de2dbad9a33c5d079450bafe4d2a45e829b351d9269d47d"
 metafile = true
 
 [[files]]
@@ -649,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "459429fadab7cb2dc2ec3475dc09771b0eabd5fec2a91afd9bfc041006cabd43"
+hash = "51cb4b2fc4a2325e901eca5deef7cb898d6152de948dabfa9940ba78fde4e3ac"
 metafile = true
 
 [[files]]
@@ -922,6 +947,11 @@ hash = "698d2dd98eae3d37c9f9eb3b99944623a06e8577d4afa1a85c1e44554d7355a5"
 metafile = true
 
 [[files]]
+file = "mods/neat.pw.toml"
+hash = "6c38f2777648d6a51731d06af272b639fe1c9066c1b6ce7b97547cbce61be724"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
@@ -1028,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "913cdd4ecc1df9c6879a48db7a3003d4f644c7d2f874295982a38dcb36428165"
+hash = "c12462f27020311afb6f1f01e592507f096688f25efbab3c21fea5efaf15d066"
 metafile = true
 
 [[files]]
@@ -1053,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/rar-compat.pw.toml"
-hash = "b123835ba896ba639f266dd57a654188a27ba730b2427214fce514450a55f57a"
+hash = "58ffb5be95ef05a22ef4f3b55d70e9349db1e6ba7729c9efa5cb158661036cf8"
 metafile = true
 
 [[files]]
@@ -1088,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "2ec42c7a53adae85261053e3112442741fefd971162f151d1a6fa7a919f5054e"
+hash = "0c698d746727b96b6f2e5cd227b4c14fac6256f679df6a646b59342dd77dfdb1"
 metafile = true
 
 [[files]]
@@ -1179,6 +1209,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c9b8faf77a21f948609b3c4803af6cb636737a6193cf099444ade8fa561ceaeb"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "2d7ffef20cd5da629bef0313869b4862606b834b46bf3d69937e41bbbd2c0da3"
 metafile = true
 
 [[files]]

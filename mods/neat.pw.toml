@@ -1,0 +1,13 @@
+name = "Neat"
+filename = "Neat-1.21-38-NEOFORGE.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/AGpD9WkV/Neat-1.21-38-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "0db44cc4c0c3f673d105ac9c5e781df635e277d7179dfd88115f72b463a59b0ed1012086772d80344287be3a78fb7ad534f0d4009cf5e5ca431f0ca71d4ac44b"
+
+[update]
+[update.modrinth]
+mod-id = "Ins7SzzR"
+version = "AGpD9WkV"

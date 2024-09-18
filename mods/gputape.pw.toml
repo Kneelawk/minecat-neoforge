@@ -1,0 +1,13 @@
+name = "GpuTape"
+filename = "GPUTape-1.20.6-1.21x-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/VPmOx7d3/GPUTape-1.20.6-1.21x-1.0.1.jar"
+hash-format = "sha512"
+hash = "824053a836f696b88cadea1f8337c1c6e02ec05ded31a68d879b5716d98821c543ac8237ffff2ddcd2b419e8c5fba4f2228027c3f3aa337efe78dccfe3a898f8"
+
+[update]
+[update.modrinth]
+mod-id = "5CTSrY8X"
+version = "VPmOx7d3"
