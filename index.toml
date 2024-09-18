@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "84c0d453511d7e668266412f0f589f024c6cd342b7f8ba66ef356d6339fe7d6c"
+hash = "323e0921f1f61429e6b65aa45638112e5b7aa95a8153d3bcafdaf5ef7579a8f5"
 metafile = true
 
 [[files]]
@@ -169,8 +169,8 @@ hash = "15c0581f55c52ed72266ada0cb61f5320bb0610f43a1e11350218104989c5c17"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.7+1.21.1.jar"
-hash = "32031793bcfd5d7bcc83fb75de7b7b213529441c1ca265d4b2d06411d1014d50"
+file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.8+1.21.1.jar"
+hash = "00b5c305f337a0d91166f7d9eb66ce9a0703bc43206812b05e8fa32203c2de22"
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "d18dda8eef854643c4853391474ea126fa62d887cd326d20864cbed606dbd78f"
+hash = "d33a32340360c0f650a24bb629d6773e7405ac3e07e24e3fe9a31b7b71cb849d"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
-hash = "c9bd9c7103f3ab36fbe6b803e1c1bd8b82fb932a4b1e7d4c147f6e99a705548a"
+hash = "2cf714f5361636b76061f17c8ae72f8734b59e135c8bf8e91ec5c8d55d4d4f48"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "66a7d6c31f9fefd94b31e007e8e76a9dbb182f4341495db11b256ddf625ced57"
+hash = "e31886adb285039aec2eca9270b950801614ce89e074dbfc4454652219792387"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrialization-overdrive.pw.toml"
-hash = "618f145533f6f058e2ed16902f4dcd164dd7f237b4ff003ec0aff4fcc5e1b1e5"
+hash = "69e4aafb9189bc9772c4e73a1c64d6f5df661239f998f9b204397b1476adf709"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "cef0603290b6f04cd6a9b68e4785c469cbe8371bc744f3f91c70e78b0c5e3a24"
+hash = "e73d7fa3d08e6ee2957df548f19b778ea770a61c4791c0a5f4f91340325cba72"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "457bfee522a30b5a622217ac40a67968aae6290ff1dbb77847d6c3d79e1c1cfa"
+hash = "459429fadab7cb2dc2ec3475dc09771b0eabd5fec2a91afd9bfc041006cabd43"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "2f87dd67bec16893fddad8ae44a805f87f51c0dcfc55b36acf453040c2d742cc"
+hash = "a2a749fa148d449eec3e1a3f8899f662b9d5ef889ad3483679daa92b0b503beb"
 metafile = true
 
 [[files]]
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "6e2b32fc939b0bdb8288802c52118598253fa56ad9f7046e67c5e6bdf12b89ee"
+hash = "1a24c543a66499330fef8a631e5208825b6678c52ed08c9985fe0ea44cf2ceeb"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a73baac90814ab1ea4326b010bae0db28f1b93be6b098c4c069103fb4a565e5e"
+hash = "4e00715cc5745712320cea63246accebbedea3390aded1fe07cb02383545dbd0"
 metafile = true
 
 [[files]]
@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "20bedf1fc465c41a0da5c009a6a36450312882a5a4c915ee374dc00eb934382f"
+hash = "df4fe813e552305f98aaf4ac2c7f4e862672a08be09f78c43877f915338a2864"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "336b085a0be8641c60aa99c7aaa04669588fb2c1613760deff37ca0f2fbae74f"
+hash = "913cdd4ecc1df9c6879a48db7a3003d4f644c7d2f874295982a38dcb36428165"
 metafile = true
 
 [[files]]
@@ -1183,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
-hash = "6a476ea938ca73ee0079942e2971d8283e456bf9a31a396bb07eaa1b85a03dd5"
+hash = "0bdb4135dcfaf0f8d26f831f93297aa12663a81e4a9b49be3fa8b7d0182df7ed"
 metafile = true
 
 [[files]]
@@ -1223,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract-api.pw.toml"
-hash = "9a92e97dcaf1e7166526116b6d5d8ca9e9cf2c6b366044f0776afe9bc2e6a0b3"
+hash = "6dead0d7f8062905309a599eff8b2059530f96cd4eba0d5b4d1f1aca1f4c105a"
 metafile = true
 
 [[files]]
@@ -1298,7 +1298,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "56ef0e12747296cb9e95b3e7c0011c3ae61d996f5c4d5ea53ffc2594b53163e4"
+hash = "c9686c783c3eb72b9ecf6a75a94a1bc003ffb347da789d415d248bc62a7f81e4"
 metafile = true
 
 [[files]]

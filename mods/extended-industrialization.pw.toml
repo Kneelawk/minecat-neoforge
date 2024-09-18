@@ -1,13 +1,13 @@
 name = "Extended Industrialization"
-filename = "extended-industrialization-1.9.1-beta-1.21.1.jar"
+filename = "extended-industrialization-1.9.3-beta-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CCM0U9YU/versions/slVemiGw/extended-industrialization-1.9.1-beta-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/CCM0U9YU/versions/iiyZcOAf/extended-industrialization-1.9.3-beta-1.21.1.jar"
 hash-format = "sha512"
-hash = "1eadc38b4164c4a6a98032e27d27b1d0a96d2b17eb6b13cdcb23f7a338e84423eecf6b3f696848a44422165bf3a6b00eead39625a85c8c334a2ba9db419f02e0"
+hash = "8af3958b6e81594018ec8d721c0d671254e0025c85f9c5ba3b603cc06f8149a4d27463df10960c3b84c44da49c06991d98f01a75b75f8c8436d206bfe4c9c91a"
 
 [update]
 [update.modrinth]
 mod-id = "CCM0U9YU"
-version = "slVemiGw"
+version = "iiyZcOAf"

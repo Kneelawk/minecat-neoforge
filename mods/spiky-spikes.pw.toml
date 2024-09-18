@@ -1,13 +1,13 @@
 name = "Spiky Spikes"
-filename = "SpikySpikes-v21.0.0-1.21-NeoForge.jar"
+filename = "SpikySpikes-v21.1.0-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/7M17ENZQ/SpikySpikes-v21.0.0-1.21-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/VmjxNG8x/SpikySpikes-v21.1.0-1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "2db6fc184cd5d9e2f5ec9de05480a66d6d32f993b2c0fc28f2b7e3ed7b5df670a0534979a952f26e1d3299602b9a9c5062c36f39deaf54088ff20199334aad6b"
+hash = "41c741f0f58f643eb468e4c56fb9e8e18833c2f2d5d8dff134abe841bc3f010556d214c0858fadae02ba875efc3b3d62f127353cadc174ae0cfdc8e3be1aaae5"
 
 [update]
 [update.modrinth]
 mod-id = "DUaLBLVL"
-version = "7M17ENZQ"
+version = "VmjxNG8x"
