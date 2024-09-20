@@ -169,8 +169,8 @@ hash = "15c0581f55c52ed72266ada0cb61f5320bb0610f43a1e11350218104989c5c17"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.8+1.21.1.jar"
-hash = "00b5c305f337a0d91166f7d9eb66ce9a0703bc43206812b05e8fa32203c2de22"
+file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.10+1.21.1.jar"
+hash = "dc33f658740711b540b46e1448b6788bb5c6ee0c418413495cb26c5b083587f7"
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
@@ -330,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "e25f8d5bbea8e14e71fc686644c34f588b97e8e655286101e92824fb547c798d"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "b41924d9212674782585a536b71257ef320b10d2a2139d8d3b2b6077a7adb8c8"
 metafile = true
 
 [[files]]
@@ -843,6 +848,10 @@ hash = "6e79c62cc416d2c7513ef818c51a190e79a20617169115df15950df64646e6e0"
 metafile = true
 
 [[files]]
+file = "mods/minecat-utils-changes-neoforge-0.1.99+1.21.1.local.jar"
+hash = "587f8138a0a118d350cb752398b5da9b4b5f80a19be87b1a8c004b566039f545"
+
+[[files]]
 file = "mods/minecat-utils-fixes-neoforge-0.1.99+1.21.1.local.jar"
 hash = "4d25e0ee8e5ccf10ce1cda793a5cb64058fe8c07e018a6465c2430f342f8f300"
 
@@ -1154,6 +1163,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "9ff6a5252fe28bb81473c5b16bbb0967f391635d65f455098fa6081368a8e82d"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "a4a444b009659b56a5b360adf706ee693ff30fad6f66a4b2a6c80d6a66aba57e"
 metafile = true
 
 [[files]]
