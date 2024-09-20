@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecat-utils-changes-neoforge-0.1.99+1.21.1.local.jar"
-hash = "587f8138a0a118d350cb752398b5da9b4b5f80a19be87b1a8c004b566039f545"
+hash = "93e423595af13baffef114fdc20b253aaf48791205e1ad816109d4f66c7238da"
 
 [[files]]
 file = "mods/minecat-utils-fixes-neoforge-0.1.99+1.21.1.local.jar"
