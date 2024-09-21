@@ -1,13 +1,13 @@
 name = "Cuisine Delight"
-filename = "cuisinedelight-1.2.1.jar"
+filename = "cuisinedelight-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gOQjCAAD/versions/v7g5dZCv/cuisinedelight-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/gOQjCAAD/versions/xCeO9UFc/cuisinedelight-1.2.2.jar"
 hash-format = "sha512"
-hash = "e581c4320d6a75fcdfc9f6f164518927430f232a0118d45b502434e274a663369908d90d544f4b22d2d914c82cf278200696b608fb33f4b5dee919133ccf07bc"
+hash = "422d6ca9cd21be9fe32c1c713c3a1c7317f4ae7536fce70440707eb360e3e03d5aa15c0262ae825832662e1d7892605fcbe6f4aff665c5ded76376059cfac626"
 
 [update]
 [update.modrinth]
 mod-id = "gOQjCAAD"
-version = "v7g5dZCv"
+version = "xCeO9UFc"
