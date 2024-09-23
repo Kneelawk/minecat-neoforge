@@ -1,13 +1,13 @@
 name = "Energized Power"
-filename = "energizedpower-1.21.1-2.12.2-neoforge.jar"
+filename = "energizedpower-1.21.1-2.12.3-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6pku8gW1/versions/1OxmEJAK/energizedpower-1.21.1-2.12.2-neoforge.jar"
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/IpjZC4HI/energizedpower-1.21.1-2.12.3-neoforge.jar"
 hash-format = "sha512"
-hash = "8eaae6c3ff324c0ef6780b203bfa7c4606f50e252e53c5c0447d81b9486a8de7814e75d3b6c25fbf5d1843478ef97feff0e160a4600196f2262559a34719ac4a"
+hash = "0af52f05f2448c857f0282d2aca56520193339cde36b744ab2da34aa70ae9cbbd47cbd83719aecc23d045dc6c8f61fa64b44a6214202ebe43f94d4aad02b310d"
 
 [update]
 [update.modrinth]
 mod-id = "6pku8gW1"
-version = "1OxmEJAK"
+version = "IpjZC4HI"

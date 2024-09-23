@@ -1,13 +1,13 @@
 name = "Iceberg"
-filename = "Iceberg-1.21.1-neoforge-1.2.7.jar"
+filename = "Iceberg-1.21.1-neoforge-1.2.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5faXoLqX/versions/mL0TORPX/Iceberg-1.21.1-neoforge-1.2.7.jar"
+url = "https://cdn.modrinth.com/data/5faXoLqX/versions/DiUhdzPp/Iceberg-1.21.1-neoforge-1.2.8.jar"
 hash-format = "sha512"
-hash = "60e05ec0ef62120037d2ce5273e4a28b67f61b43d0152365c62323a694e46a1cde079ba6468c155e05c6ce135fcf604bc41e484e7897c213d1f81fde4998c3e7"
+hash = "9a712714b1a326c69f1f46acc3ac1f6c70505e3405ec65cc45fd6fc127504b501986b13cc8411ec4d523491abb73ceef9b53653e535f71741fff98afba11d9da"
 
 [update]
 [update.modrinth]
 mod-id = "5faXoLqX"
-version = "mL0TORPX"
+version = "DiUhdzPp"

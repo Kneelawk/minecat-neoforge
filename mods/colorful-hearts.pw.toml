@@ -1,13 +1,13 @@
 name = "Colorful Hearts"
-filename = "colorfulhearts-neoforge-1.21.1-10.3.7.jar"
+filename = "colorfulhearts-neoforge-1.21.1-10.3.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wQfMUdZT/versions/zzwabZoR/colorfulhearts-neoforge-1.21.1-10.3.7.jar"
+url = "https://cdn.modrinth.com/data/wQfMUdZT/versions/X5GHPWu9/colorfulhearts-neoforge-1.21.1-10.3.8.jar"
 hash-format = "sha512"
-hash = "ef3c2cc9b363b41adede522e2e2e0c6218cb604544549101188351c1c4ea1a45d901de29e67be99963f30c107cc4d42d0c1ac639b070bab373ce9b8fc23cb07b"
+hash = "23e72c50b5be14fd2263c024678c9c0d13196158d76b54cdc2fbbf5c00f49475814d430cdd4e3041978850f575143ad704429172a8baf75b5c7bb1d5673cd5f3"
 
 [update]
 [update.modrinth]
 mod-id = "wQfMUdZT"
-version = "zzwabZoR"
+version = "X5GHPWu9"
