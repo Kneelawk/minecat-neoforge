@@ -1,13 +1,13 @@
 name = "Ender IO"
-filename = "enderio-7.0.0-alpha.jar"
+filename = "enderio-7.0.7-alpha.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/49ZofO4f/versions/6mFtKQTF/enderio-7.0.0-alpha.jar"
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/AzTCyAPX/enderio-7.0.7-alpha.jar"
 hash-format = "sha512"
-hash = "df04240cd07236bab390036356baba7ef26de3062d6caea790aa37bd58c071a61f8cb24f0317a0356b41a940a54fae7a9f601e54282751846429d1afca289cf0"
+hash = "ed43c53ddbcab98af31e4c2d5bd2505faeb53d740158b9f559bdbc6783cef972cdc27cc63ab3ad39196115c39f4a8151bc6123a6c08bf5d5ef8cd6baecbef1e9"
 
 [update]
 [update.modrinth]
 mod-id = "49ZofO4f"
-version = "6mFtKQTF"
+version = "AzTCyAPX"

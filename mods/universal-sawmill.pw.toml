@@ -1,13 +1,13 @@
 name = "Sawmill"
-filename = "sawmill-1.21-1.5.4-neoforge.jar"
+filename = "sawmill-1.21-1.5.6-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/nzQhtatr/sawmill-1.21-1.5.4-neoforge.jar"
+url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/haRbclpg/sawmill-1.21-1.5.6-neoforge.jar"
 hash-format = "sha512"
-hash = "67228b8968139f65ec18e242b5d8b4c93ea64d14a16ff4f683b9130d5e7f84dd0ee2d48a2090f59e9b13bf536c945f1c714fa7d4f4b92e8b0523a8cacca3f7cc"
+hash = "acc90835e85ca02e3b59e79a3a56cea9e66f8fc2b02ce516b3bd0bec1560f0eaa7d16b6de8a36102ccbef60e4c925999d24530fc91199c7cc770d78314944c75"
 
 [update]
 [update.modrinth]
 mod-id = "WRaRZdTd"
-version = "nzQhtatr"
+version = "haRbclpg"

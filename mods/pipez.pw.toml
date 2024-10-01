@@ -1,13 +1,13 @@
 name = "Pipez"
-filename = "pipez-neoforge-1.21.1-1.2.18.jar"
+filename = "pipez-neoforge-1.21.1-1.2.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iRmWy6ga/versions/Tlbl4jj8/pipez-neoforge-1.21.1-1.2.18.jar"
+url = "https://cdn.modrinth.com/data/iRmWy6ga/versions/z20ZR1YE/pipez-neoforge-1.21.1-1.2.19.jar"
 hash-format = "sha512"
-hash = "97bc97825e8b678d933aa0e429173100cb44e0e2337c58309fb5202265edd5f8f5cd9825da10989e44f46f6c3bee66c5fd872ecd51b674483f9f1be6d1158c2b"
+hash = "a7ee4d21c2060392a676ff9186d9445a0e000b65c2430750284c9555170e7ec0b802e7967f1864e4a4cb169097e7b92b1bc8751bf708247e6943868c4cd7dff0"
 
 [update]
 [update.modrinth]
 mod-id = "iRmWy6ga"
-version = "Tlbl4jj8"
+version = "z20ZR1YE"

@@ -1,13 +1,13 @@
 name = "The Undergarden"
-filename = "The_Undergarden-1.21.1-0.8.21.jar"
+filename = "The_Undergarden-1.21.1-0.8.22.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ejfl5qDL/versions/eEiUSFve/The_Undergarden-1.21.1-0.8.21.jar"
+url = "https://cdn.modrinth.com/data/Ejfl5qDL/versions/KE5dgP9X/The_Undergarden-1.21.1-0.8.22.jar"
 hash-format = "sha512"
-hash = "956248d9b112273b347c8f131804dc670f9f4b9358cdfbd86779079278ed5528c669c9a00409df228cff6b5bd83837fd2a2b068c1c9b930469e60aaca8b681e2"
+hash = "babb73aa992cc9ef7170d452beffb356eb10ecbd3f0baabc97090627246e77669c5c99100820ccdb06f5d6daf8c155e3c1be5490484067eb5ff525f9e54a5bab"
 
 [update]
 [update.modrinth]
 mod-id = "Ejfl5qDL"
-version = "eEiUSFve"
+version = "KE5dgP9X"

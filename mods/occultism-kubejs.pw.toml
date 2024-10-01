@@ -1,13 +1,13 @@
 name = "Occultism KubeJS"
-filename = "occultism_kubejs-1.21.1-neoforge-1.5.0.jar"
+filename = "occultism_kubejs-1.21.1-neoforge-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u5J68aYW/versions/vqN3Wiyx/occultism_kubejs-1.21.1-neoforge-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/u5J68aYW/versions/LUfs8tgQ/occultism_kubejs-1.21.1-neoforge-1.7.0.jar"
 hash-format = "sha512"
-hash = "41278247914e7b61ee4eabf26099e90aa338d7240586238e1ae67f2a0b6e47654c5ca61da4cbbe56f0ee8e03cdfed57ae9543faf33c06c69ce0fe9ea416789e4"
+hash = "f7d9063d9c27652bdc024db23432cb2c350ee0139783eb7f731087443aa3f85d1878152a33f987041a5f723519d1a303f286f9616a63fd28749b85d21b5e47dd"
 
 [update]
 [update.modrinth]
 mod-id = "u5J68aYW"
-version = "vqN3Wiyx"
+version = "LUfs8tgQ"
