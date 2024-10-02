@@ -1,0 +1,13 @@
+name = "Restrictions"
+filename = "restrictions-1.21-7.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oevBqQRC/versions/gWkyV1zT/restrictions-1.21-7.0.1.jar"
+hash-format = "sha512"
+hash = "dbf5aea08d2e72e9c61dccf10a908955f60a3e2a48e44759eb4dff8f60eb60ae60d935281c3c3e761ee4ddb4e6bc4a66cabcc0dee090104ac14d36abdaf79652"
+
+[update]
+[update.modrinth]
+mod-id = "oevBqQRC"
+version = "gWkyV1zT"
