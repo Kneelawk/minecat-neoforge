@@ -1,13 +1,13 @@
 name = "Common Capabilities"
-filename = "CommonCapabilities-1.21.1-neoforge-2.9.4.jar"
+filename = "CommonCapabilities-1.21.1-neoforge-2.9.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oFXrCkDI/versions/2ER7uZZz/CommonCapabilities-1.21.1-neoforge-2.9.4.jar"
+url = "https://cdn.modrinth.com/data/oFXrCkDI/versions/l7yPeyAd/CommonCapabilities-1.21.1-neoforge-2.9.5.jar"
 hash-format = "sha512"
-hash = "2e7fea08e23629331167cd49f4c3efcdc5a76cb161d90cc81380a755f98d6d6f09f6ba0b4915330fcf5439377ff903681d3e8eee647dd3eaaae7b1b8d35eabfa"
+hash = "9d826047d21b946395636625544fe8ad75a7cfdc8a26c8d3040f29fe5e7f489b6927b0c10c9f88d934de35588dca77b1ee97611589c8ccecb9c5697700e76f6e"
 
 [update]
 [update.modrinth]
 mod-id = "oFXrCkDI"
-version = "2ER7uZZz"
+version = "l7yPeyAd"

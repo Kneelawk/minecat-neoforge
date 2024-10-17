@@ -1,13 +1,13 @@
 name = "Iron Furnaces"
-filename = "ironfurnaces-neoforge-1.21-4.2.5.jar"
+filename = "ironfurnaces-neoforge-1.21.1-4.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yPlaLxD1/versions/U2oiDK7a/ironfurnaces-neoforge-1.21-4.2.5.jar"
+url = "https://cdn.modrinth.com/data/yPlaLxD1/versions/MfRtaT6s/ironfurnaces-neoforge-1.21.1-4.2.6.jar"
 hash-format = "sha512"
-hash = "592f29efa790a12e37faf05f0552f83e66dfc04dbff47177ab51d53fc7ccecf8bb6922f7b5b3c3bce457751af493b5274c69edc00e616191d19178223d846bc3"
+hash = "50d2b1f5dd27e14583c47694b75e74826bacf740dd66aa200a72f0f659042d33d8e1f70c8ddd112e63f66942085b65c8b740383a2d0b562c46ea4d3964e878df"
 
 [update]
 [update.modrinth]
 mod-id = "yPlaLxD1"
-version = "U2oiDK7a"
+version = "MfRtaT6s"

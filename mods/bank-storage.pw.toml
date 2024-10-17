@@ -1,13 +1,13 @@
 name = "Bank Storage"
-filename = "bankstorage-1.4.1+1.21.jar"
+filename = "bankstorage-1.4.2+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RyNZlwbP/versions/XeKnVFW7/bankstorage-1.4.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/RyNZlwbP/versions/Lf5BQpYs/bankstorage-1.4.2%2B1.21.jar"
 hash-format = "sha512"
-hash = "f7b75b9c6ece6faeee3511ac993b2d85425020916cd6026fb9e066e654af1d15d15641d05b582a1ff6e43fd2d3f07d94c85dc5eb2c1ec8073a0ffd3dc8d07351"
+hash = "4577f3fddf1254fe919c7b2115186e46a5e14964e127632686c74c8ed421a9958ccea3c979787c97e7f8ad31f0b43af15c09d078ac1d34f2180a11faa2b46642"
 
 [update]
 [update.modrinth]
 mod-id = "RyNZlwbP"
-version = "XeKnVFW7"
+version = "Lf5BQpYs"

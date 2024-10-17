@@ -1,13 +1,13 @@
 name = "CraterLib"
-filename = "CraterLib-NeoForge-1.21-2.1.0.jar"
+filename = "CraterLib-NeoForge-1.21-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/HtD7r8pV/CraterLib-NeoForge-1.21-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Zd2w1hRK/CraterLib-NeoForge-1.21-2.1.1.jar"
 hash-format = "sha512"
-hash = "5b57f26b42a8cc461bf48f118e366980726d07866db58701172884fa8a2d75e3d112c12a3f9583a9a6b9f5940b6b9263f8e3daebde6f99941417077157c841a0"
+hash = "a13dae326e4be67e3dfe2f51a2cdce1da137d775f2b25304603cc82f326244bb41ed928e8c9480b92e1b8f30fe8823eceffd38ab24f9e93437a0a21406aea237"
 
 [update]
 [update.modrinth]
 mod-id = "Nn8Wasaq"
-version = "HtD7r8pV"
+version = "Zd2w1hRK"
