@@ -71,6 +71,11 @@ hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "1e9aeeeb0c751cf3d626d061b3785f317808d550e135934edcb70f5528ecec2f"
 metafile = true
@@ -170,8 +175,8 @@ hash = "15c0581f55c52ed72266ada0cb61f5320bb0610f43a1e11350218104989c5c17"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.13+1.21.1.jar"
-hash = "0d4e729f996c63492f00eb33684ddeef0aa6d23228e0c62b4b15e8566d8d5aad"
+file = "mods/bovines-and-buttercups-neoforge-2.0.0-beta.14+1.21.1.jar"
+hash = "a2fa753f5ac85593e3926c1458a567ce3536918a89ad60c7a552af71bfffda68"
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
