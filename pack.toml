@@ -1,12 +1,12 @@
 name = "Minecat Neoforge"
 author = "Kneelawk"
-version = "2.8.2"
+version = "2.8.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "45060dbfb30ef93c8c32a6ee2dbfa890cfb7e35c5c99a1ea36b86c5a6de3ae16"
+hash = "0a21766834371076d07f20a9ca277ba91e5ee76b972772115385d243858f9fe6"
 
 [versions]
 minecraft = "1.21.1"

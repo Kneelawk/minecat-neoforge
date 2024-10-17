@@ -829,11 +829,6 @@ hash = "fa696d004b26492dd23aed1693f03cddfada44d210a38bd814af24b3c8c4bb2a"
 metafile = true
 
 [[files]]
-file = "mods/mcjtylib.pw.toml"
-hash = "a10069712e50efa933aa81597174db51163a4196089db298e9c1bf0e37dd916b"
-metafile = true
-
-[[files]]
 file = "mods/measurements.pw.toml"
 hash = "2ec75c6ebf9e60c2cd305e2d9a61dd9e95d09cffe3af50a296554d2a62102582"
 metafile = true
@@ -1194,11 +1189,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
-metafile = true
-
-[[files]]
-file = "mods/restrictions.pw.toml"
-hash = "0607dd3b1dbe4c7d3efe9de38b2dae00bcb1547005a509bfa2be60e8cb888247"
 metafile = true
 
 [[files]]
